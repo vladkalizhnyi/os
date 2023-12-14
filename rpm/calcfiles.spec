@@ -25,5 +25,5 @@ install -m 755 %{_builddir}/os-main/calc_files.sh %{buildroot}/usr/bin/calc_file
 /usr/bin/calc_files
 
 %changelog
-* Thursday December 14 2023 Vladyslav Kaliuzhnyi <vladkalujni0708@gmail.com> - 1.0-1
+* Thu Dec 14 2023 Vladyslav Kaliuzhnyi <vladkalujni0708@gmail.com> - 1.0-1
 - Initial build
